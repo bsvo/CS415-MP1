@@ -6,10 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
-				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/Blueprints/BP_TunnelSpawner.uasset",
 				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
-				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/Blueprints/BP_TunnelSpawner.uasset"
 			]
 		}
 	]
