@@ -16,6 +16,9 @@
 				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/T_Restart.uasset",
 				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/Health_bar.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/healthpack.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/healthball.uasset",
+				"/Users/bensvoboda/Documents/CS415/github/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/Health_Collect.uasset",
 				"/Users/bensvoboda/Downloads/InfiniteMatrixStarter 5.3/Content/Blueprints/BP_TunnelSpawner.uasset"
 			]
 		}
